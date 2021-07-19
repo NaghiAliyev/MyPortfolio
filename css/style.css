@@ -523,8 +523,8 @@ a:hover{
 .banner_content h1 span .fw_300{
 	font-weight: 300;
 }
-.banner_content h1 span .fw_800{
-	font-weight: 800;
+.banner_content h1 span .fw_700{
+	font-weight: 700;
 }
 .banner_content .sub_title{
 }
@@ -900,6 +900,9 @@ a:hover{
     color: #fff;
 	font-weight: 500;
     font-size: 14px;
+}
+.box .hover_content span.date {
+    text-align: left;
 }
 .box .hover_content .icon a{
     display: inline-block;
