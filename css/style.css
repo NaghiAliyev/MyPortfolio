@@ -1296,6 +1296,11 @@ a:hover{
     margin: 15px 0 0;
     font-size: 18px;
 }
+.single_contact a{
+    text-decoration: none;
+	outline: none;
+    color: #666;
+}
 .mb0 { margin-bottom: 0; }
 .pb_0{ padding-bottom: 0; }
 /* ----------------------------------------------------------------
